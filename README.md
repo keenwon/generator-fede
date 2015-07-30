@@ -1,7 +1,7 @@
 # generator-fede
 使用yo快速构建[fede](https://github.com/keenwon/fede)
 
-##Usage
+## Usage
 安装yo
 
     npm install -g yo
