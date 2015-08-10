@@ -1,0 +1,13 @@
+{
+  "name": "fede",
+  "version": "1.0.0",
+  "description": "前端开发环境",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "keenwon"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/keenwon/fede"
+}

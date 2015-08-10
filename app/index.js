@@ -79,6 +79,12 @@ module.exports = generators.Base.extend({
             'morgan',
             'optimist'
         ], {'save': true});
+
+        this.bowerInstall([
+            'jquery#1.9.1',
+            'requirejs',
+            'almond'
+        ], {'save': true});
     }
 
 });
